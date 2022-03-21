@@ -1,1 +1,1 @@
-# theory-of-ml
+Theory of Machine learning homework 2
